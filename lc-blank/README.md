@@ -10,5 +10,3 @@ Integrar o layout do site em wordpress utilizando includes e boas práticas.
 
 Colocar o projeto em seu github, e mandar o link para a consultoria!
 
-
-https://github.com/lucasdatrindade/layout-quatrorodas-teste
